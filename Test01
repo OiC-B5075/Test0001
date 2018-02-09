@@ -1,0 +1,5 @@
+GET /newsplus/subject.txt HTTP/1.0
+Accept-Encoding: gzip
+Host: news2.2ch.net
+User-Agent: Monazilla/1.00
+Connection: close
